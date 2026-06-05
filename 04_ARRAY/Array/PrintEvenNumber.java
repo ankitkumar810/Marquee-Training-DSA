@@ -1,9 +1,4 @@
-public class PrintEvenNumber {
-
-}
-// Print Even Numbers from Array
-
-import java.util.Scanner;
+import java.util.*;
 
 public class PrintEvenNumber{
     public static void main(String[] args) {
